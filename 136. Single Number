@@ -1,0 +1,10 @@
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int ans=0;
+        for(int values: nums){
+            ans=ans^values;   //X-OR operator is used which gives 1 when both are not same
+        }
+        return ans;
+    }
+};
