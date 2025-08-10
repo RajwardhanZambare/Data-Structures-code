@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int lengthOfLastWord(string s) {
+        int count=0, spaceCount=0;
+        int i=s.length()-1;
+        while(i>=0){
+            if((s[i]>='A' && s[i]<='Z') || (s[i]>='a' && s[i]<='z')){
+                count++;
+            }
+            else{
+                if(count==0){
+                    spaceCount=0;
+                }
+                else{
+                    return count;
+                }
+            }
+            i--;
+        }
+        return count;
+    }
+};
