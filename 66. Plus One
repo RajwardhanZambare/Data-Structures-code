@@ -1,0 +1,43 @@
+/*this code is just for understanding->
+
+class Solution {
+public:
+    vector<int> plusOne(vector<int>& digits) {
+        long long ogDigit=0;
+        for(int i=0; i<digits.size(); i++){
+            int element=digits[i];
+            ogDigit=ogDigit*10+element;
+        }
+        long long incrDigit=ogDigit+1;
+        long long countdigit=incrDigit;//to count no of digits in incrDigit
+        int count=0;
+        while(countdigit!=0){
+            countdigit /= 10;
+            count++;
+        }
+        digits.resize(count);//resizes the vector with new number of digits
+        for(int i=count-1; i>=0; i--){
+            int rem=incrDigit%10;
+            digits[i]=rem;
+            incrDigit=incrDigit/10;
+        }
+        return digits;
+    }
+};
+*/
+class Solution {
+public:
+    vector<int> plusOne(vector<int>& digits) {
+        //for better understanding,  dryrun this loop
+        for (int i = digits.size()-1; i>=0; i--) {
+            if (digits[i]<9) {
+                digits[i]++;
+                return digits;
+            }
+            digits[i] = 0;
+        }
+        // If all digits were 9, insert 1 at the beginning
+        digits.insert(digits.begin(), 1);//this will insert 1 at the beginning of the digits vector
+        return digits;
+    }
+};
