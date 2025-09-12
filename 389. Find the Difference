@@ -1,0 +1,17 @@
+class Solution {
+public:
+    char findTheDifference(string s, string t) {
+        //let s = abcd and t = abcde
+        char result = 0;
+        for(int i=0; i<s.length(); i++){
+            result = result ^ s[i];
+        }
+        //after first loop, result = a^b^c^d
+        for(int i=0; i<t.length(); i++){
+            result = result ^ t[i];
+        }
+        //after second loop, result = (a^b^c^d) ^ (a^b^c^d^e) = e
+        //                           first loop    
+        return result;
+    }
+};
