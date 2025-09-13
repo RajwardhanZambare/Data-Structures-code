@@ -1,0 +1,29 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    int getDecimalValue(ListNode* head) {
+        list<int> ll;
+        struct ListNode *trav = head;
+        while(trav != NULL){
+            ll.push_front(trav->val); //because of push_front we get MSB(bit with highest value) at end of linked list.
+            trav = trav->next;
+        }
+        //int totalDigits = ll.size();
+        int result = 0;
+        int addValue = 1; //it is the value of each bit(not 0 or 1, but 1,2,4,8,16,......)
+        for(auto i=ll.begin(); i!=ll.end(); i++){
+            result = result + (*(i) * addValue);
+            addValue *= 2;
+        }
+        return result;
+    }
+};
