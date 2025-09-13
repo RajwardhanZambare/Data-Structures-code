@@ -1,0 +1,37 @@
+class Solution {
+public:
+    int maxFreqSum(string s) {
+        unordered_map<char, int> vfrequency;
+        unordered_map<char, int> cfrequency;
+        list<char> ll; //vowel linked list
+        list<char> cll; //consonent linked list
+        for(char ch : s){
+            if((ch == 'a') || (ch == 'e') || (ch == 'i') || 
+               (ch == 'o') || (ch == 'u')){
+                ll.push_back(ch); 
+            }
+            else{
+                cll.push_back(ch); 
+            }
+        }
+        for(char ch : ll){
+            vfrequency[ch]++; 
+        }
+        int vMaxCount = 0;
+        for(auto p : vfrequency){
+            if(p.second > vMaxCount){
+                vMaxCount = p.second; 
+            }
+        }
+        for(char ch : cll){
+            cfrequency[ch]++; 
+        }
+        int cMaxCount = 0;
+        for(auto p : cfrequency){
+            if(p.second > cMaxCount){
+                cMaxCount = p.second; 
+            }
+        }
+        return (vMaxCount + cMaxCount);
+    }
+};
