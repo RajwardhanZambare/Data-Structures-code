@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+        vector<int> v;
+        for(int i : nums1){
+            for(int j : nums2){
+                if(i == j){
+                    if(find(v.begin(), v.end(), i) == v.end()){ //this find i in 'v'. if found, it returns the iterator pointing to the first occurance of i in 'v' and if not, then it return v.end()
+                        v.push_back(i);
+                    }
+                    break;
+                }
+            }
+        }
+        return v;
+    }
+};
