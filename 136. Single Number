@@ -1,3 +1,4 @@
+//cpp
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
@@ -8,3 +9,13 @@ public:
         return ans;
     }
 };
+//java
+class Solution {
+    public int singleNumber(int[] nums) {
+        int nonRepeatNum = nums[0];
+        for(int i=1; i<nums.length; i++){
+            nonRepeatNum = nonRepeatNum ^ nums[i];
+        }
+        return nonRepeatNum;
+    }
+}
