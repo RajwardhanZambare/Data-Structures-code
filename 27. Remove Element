@@ -1,3 +1,4 @@
+//cpp
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
@@ -11,3 +12,19 @@ public:
         return k;
     }
 };
+//java
+class Solution {
+    public int removeElement(int[] nums, int val) {
+        int idx = 0;
+        for(int i=0; i<nums.length; i++){
+            if(nums[i] == val){
+                continue;
+            }
+            else{
+                nums[idx] = nums[i];
+                idx++;
+            }
+        }
+        return idx;
+    }
+}
