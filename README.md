@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0074-search-a-2d-matrix) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
