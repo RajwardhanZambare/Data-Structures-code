@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0050-powx-n) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0006-zigzag-conversion) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
