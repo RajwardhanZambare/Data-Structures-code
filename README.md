@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
@@ -72,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0006-zigzag-conversion) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
