@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0485-max-consecutive-ones) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
