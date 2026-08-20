@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
