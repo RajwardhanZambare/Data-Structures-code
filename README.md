@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
