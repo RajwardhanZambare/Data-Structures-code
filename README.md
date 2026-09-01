@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
 ## Enumeration
 |  |
 | ------- |
