@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
