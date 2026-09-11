@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0074-search-a-2d-matrix) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
