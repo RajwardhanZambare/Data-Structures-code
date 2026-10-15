@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -204,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
