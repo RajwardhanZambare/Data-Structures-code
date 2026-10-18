@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0234-palindrome-linked-list) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0229-majority-element-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0234-palindrome-linked-list) |
