@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
