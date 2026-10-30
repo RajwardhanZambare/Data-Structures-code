@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
