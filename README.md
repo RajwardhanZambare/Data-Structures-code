@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0231-power-of-two) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
