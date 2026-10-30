@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
