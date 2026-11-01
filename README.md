@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
