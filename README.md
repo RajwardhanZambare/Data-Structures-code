@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
