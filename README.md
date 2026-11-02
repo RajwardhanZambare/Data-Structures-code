@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0075-sort-colors) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
