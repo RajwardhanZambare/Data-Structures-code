@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
