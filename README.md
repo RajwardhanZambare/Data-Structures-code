@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3731-find-missing-elements](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0560-subarray-sum-equals-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/0023-merge-k-sorted-lists) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RajwardhanZambare/Data-Structures-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
